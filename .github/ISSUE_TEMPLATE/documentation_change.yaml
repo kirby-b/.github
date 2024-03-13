@@ -1,0 +1,24 @@
+name: Documentation Change
+description: Propose a change to the documentation
+assignees: ["kirby-b"]
+labels: ["documentation"]
+title: "[DOCS]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please make sure this change hasn't been already submitted by someone by looking through other open/closed issues
+  
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What changes would you like to propose
+    validations:
+      required: true
+      
+  - type: textarea
+    id: additional-information
+    attributes:
+      label: Additional Information
+      description: Give us some additional information on the question like links, screeenshots, etc.
