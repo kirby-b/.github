@@ -7,7 +7,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Please make sure this change hasn't been already submitted by someone by looking through other open/closed issues
+        Please make sure this change hasn't been already submitted by someone by looking through other open/closed issues. If you have questions about the docs, please submit a question instead.
   
   - type: textarea
     id: description
