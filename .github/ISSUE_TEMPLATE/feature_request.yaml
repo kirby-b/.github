@@ -1,5 +1,6 @@
 name: Feature Request
 description: Request a new feature or enhancement
+assignees: ["kirby-b"]
 labels: ["enhancement"]
 title: "[FEAT]: "
 body:
