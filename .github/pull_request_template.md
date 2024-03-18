@@ -21,5 +21,5 @@ Closes # <!-- Issue # here -->
 - [ ] My code requires changes to the documentation
 - [ ] I have updated the documentation as required
 
-## ℹ Additional Information
+## Additional Information
 <!-- Any additional information like breaking changes, dependencies added, screenshots, comparisons between new and old behavior, etc. -->
